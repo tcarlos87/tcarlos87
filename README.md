@@ -4,9 +4,10 @@ Nice to meet you!
 
 **Data Specialist** is a ✨ _special_ ✨ repository because its `GetToKnowMyPassion.md'
 
-- 🔭 I’m currently working on new data project for music industry 🎤🎧
+- 🔭 I’m currently working on new data projects.
 - 🌱 I’m currently learning Cybersecurity 💻
 - 👯 I’m looking to collaborate on new companies and help them develop business solutions.
+- 😄 Pronouns: Charly or Charles 😏
 
 At your service! I will post more projects on DS, please feel free to share and comment! 
 
