@@ -2,10 +2,10 @@
 
 Nice to meet you!
 
-**Data Specialist** is a ✨ _special_ ✨ repository because its `GetToKnowMyPassion.md'
+**Data Specialist and Developer** 
 
-- 🔭 I’m currently working on new data projects.
-- 🌱 I’m currently learning Cybersecurity 💻
+- 🔭 I’m currently working on new data projects and building cloud applications.
+- 🌱 I made a specialization on Cybersecurity 💻
 - 👯 I’m looking to collaborate on new companies and help them develop business solutions.
 - 😄 Pronouns: Charly or Charles 😏
 
